@@ -32,7 +32,7 @@ import com.ijg.darklight.sdk.core.Issue;
 
 public class ConnectivityIssue extends Issue {
 
-	protected ConnectivityIssue() {
+	public ConnectivityIssue() {
 		super("Internet Connection", "Internet connectivity has been restored");
 	}
 
