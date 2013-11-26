@@ -4,7 +4,7 @@ Darklight Nova Core Issue: Connectivity
 Issue for [Darklight Nova Core](https://github.com/darklight-studios/darklight-nova-core)
 
 ### Function
-The Connectivity issue checks for internet connectivity
+The connectivity issue checks for internet connectivity.
 
 ### Use
 
